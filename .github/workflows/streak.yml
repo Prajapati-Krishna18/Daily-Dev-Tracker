@@ -1,0 +1,53 @@
+name: Developer Activity Tracker
+
+on:
+  schedule:
+    # Runs 5 times a day at semi-randomized realistic intervals
+    # Times are in UTC
+    - cron: '15 2 * * *'
+    - cron: '45 6 * * *'
+    - cron: '30 11 * * *'
+    - cron: '10 16 * * *'
+    - cron: '55 20 * * *'
+  workflow_dispatch: # Enables manual triggering for testing
+
+jobs:
+  commit-activity:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          
+      - name: Generate Meaningful Activity
+        run: node scripts/generate_activity.js
+        
+      - name: Commit and Push
+        run: |
+          # Set up a generic but legitimate looking committer identity
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          # Stage the updated tracked files
+          git add daily-log.md progress.json
+          
+          # Use the dynamically generated commit message
+          if [ -f .commit_msg ]; then
+            COMMIT_MSG=$(cat .commit_msg)
+            rm .commit_msg
+            
+            # Commit and push
+            git commit -m "$COMMIT_MSG"
+            git push
+          else
+            echo "No commit message generated, skipping."
+          fi
