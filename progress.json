@@ -1,9 +1,10 @@
 {
-  "totalContributions": 1,
+  "totalContributions": 2,
   "currentStreak": 1,
   "longestStreak": 1,
   "lastCommitDate": "2026-04-03",
   "breakdown": {
-    "feat": 1
+    "feat": 1,
+    "refactor": 1
   }
 }
