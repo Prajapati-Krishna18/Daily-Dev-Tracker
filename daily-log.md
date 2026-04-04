@@ -58,3 +58,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `system-design`
 - **Action:** Study distributed systems concepts
 - **Journal:** Practiced DSA problems today. Focused on sliding window and two-pointer techniques.
+
+### Sat, 04 Apr 2026 21:17:21 GMT
+- **Type:** DOCS
+- **Scope:** `setup`
+- **Action:** Update setup instructions
+- **Journal:** Updated the README for better onboarding of new contributors.
