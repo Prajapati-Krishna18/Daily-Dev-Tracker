@@ -52,3 +52,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `utils`
 - **Action:** Extract common logic into custom hook
 - **Journal:** Refactored some legacy code to be more readable and maintainable.
+
+### Sat, 04 Apr 2026 16:50:29 GMT
+- **Type:** LEARNING
+- **Scope:** `system-design`
+- **Action:** Study distributed systems concepts
+- **Journal:** Practiced DSA problems today. Focused on sliding window and two-pointer techniques.
