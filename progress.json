@@ -1,5 +1,5 @@
 {
-  "totalContributions": 6,
+  "totalContributions": 7,
   "currentStreak": 2,
   "longestStreak": 2,
   "lastCommitDate": "2026-04-04",
@@ -7,6 +7,7 @@
     "feat": 2,
     "refactor": 2,
     "chore": 1,
-    "fix": 1
+    "fix": 1,
+    "learning": 1
   }
 }
