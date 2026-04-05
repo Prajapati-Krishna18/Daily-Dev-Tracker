@@ -70,3 +70,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `dsa`
 - **Action:** Read up on advanced React design patterns
 - **Journal:** Spent time learning some new architectural patterns.
+
+### Sun, 05 Apr 2026 07:40:30 GMT
+- **Type:** DOCS
+- **Scope:** `setup`
+- **Action:** Update architecture diagrams
+- **Journal:** Updated the README for better onboarding of new contributors.
