@@ -88,3 +88,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `api`
 - **Action:** Resolve race condition in caching layer
 - **Journal:** Patched a state bug that took a while to track down in the profiler.
+
+### Sun, 05 Apr 2026 21:17:23 GMT
+- **Type:** LEARNING
+- **Scope:** `dsa`
+- **Action:** Practice dynamic programming and graph problems
+- **Journal:** Watched a conference talk and implemented some of the learnings into a sandbox project.
