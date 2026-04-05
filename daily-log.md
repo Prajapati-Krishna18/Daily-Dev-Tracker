@@ -76,3 +76,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `setup`
 - **Action:** Update architecture diagrams
 - **Journal:** Updated the README for better onboarding of new contributors.
+
+### Sun, 05 Apr 2026 11:50:20 GMT
+- **Type:** DOCS
+- **Scope:** `setup`
+- **Action:** Document API endpoints with Swagger
+- **Journal:** Added inline comments to complex algorithmic functions for future reference.
