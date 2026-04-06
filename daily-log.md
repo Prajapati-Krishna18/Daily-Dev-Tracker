@@ -106,3 +106,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `router`
 - **Action:** Implement global state management
 - **Journal:** Spent time bringing the new UI component to life. Accessibility and responsive design were the priorities.
+
+### Mon, 06 Apr 2026 12:03:10 GMT
+- **Type:** LEARNING
+- **Scope:** `system-design`
+- **Action:** Read up on advanced React design patterns
+- **Journal:** Watched a conference talk and implemented some of the learnings into a sandbox project.
