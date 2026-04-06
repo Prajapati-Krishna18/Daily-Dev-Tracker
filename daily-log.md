@@ -112,3 +112,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `system-design`
 - **Action:** Read up on advanced React design patterns
 - **Journal:** Watched a conference talk and implemented some of the learnings into a sandbox project.
+
+### Mon, 06 Apr 2026 17:02:16 GMT
+- **Type:** CHORE
+- **Scope:** `ci`
+- **Action:** Migrate build tool setup
+- **Journal:** Tweaked the build configuration. Reduced bundle size slightly.
