@@ -94,3 +94,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `dsa`
 - **Action:** Practice dynamic programming and graph problems
 - **Journal:** Watched a conference talk and implemented some of the learnings into a sandbox project.
+
+### Mon, 06 Apr 2026 05:05:56 GMT
+- **Type:** DOCS
+- **Scope:** `api`
+- **Action:** Update setup instructions
+- **Journal:** Fleshed out the API documentation for the newly added endpoints.
