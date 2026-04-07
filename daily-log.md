@@ -142,3 +142,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `lint`
 - **Action:** Configure ESLint and Prettier rules
 - **Journal:** Tweaked the build configuration. Reduced bundle size slightly.
+
+### Tue, 07 Apr 2026 17:13:19 GMT
+- **Type:** FIX
+- **Scope:** `ui`
+- **Action:** Fix alignment issues on mobile view
+- **Journal:** Resolved an issue causing UI jank during scrolling on mobile.
