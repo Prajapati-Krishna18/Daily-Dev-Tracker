@@ -124,3 +124,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `deps`
 - **Action:** Update npm packages to latest versions
 - **Journal:** Tweaked the build configuration. Reduced bundle size slightly.
+
+### Tue, 07 Apr 2026 04:41:36 GMT
+- **Type:** DOCS
+- **Scope:** `readme`
+- **Action:** Document API endpoints with Swagger
+- **Journal:** Added inline comments to complex algorithmic functions for future reference.
