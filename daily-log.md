@@ -226,3 +226,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `readme`
 - **Action:** Document API endpoints with Swagger
 - **Journal:** Updated the README for better onboarding of new contributors.
+
+### Fri, 10 Apr 2026 12:04:05 GMT
+- **Type:** DOCS
+- **Scope:** `arch`
+- **Action:** Update setup instructions
+- **Journal:** Spent time writing documentation today. Clear docs are better than clever code.
