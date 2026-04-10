@@ -220,3 +220,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `router`
 - **Action:** Implement user authentication endpoint
 - **Journal:** Integrated backend API with frontend state nicely. Handled loading and error states.
+
+### Fri, 10 Apr 2026 08:10:26 GMT
+- **Type:** DOCS
+- **Scope:** `readme`
+- **Action:** Document API endpoints with Swagger
+- **Journal:** Updated the README for better onboarding of new contributors.
