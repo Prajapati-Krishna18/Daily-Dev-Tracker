@@ -238,3 +238,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `setup`
 - **Action:** Update setup instructions
 - **Journal:** Added inline comments to complex algorithmic functions for future reference.
+
+### Fri, 10 Apr 2026 21:23:30 GMT
+- **Type:** REFACTOR
+- **Scope:** `hooks`
+- **Action:** Simplify state management tree
+- **Journal:** Extracted repetitive logic into its own utility function to keep things DRY.
