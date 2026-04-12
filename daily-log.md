@@ -274,3 +274,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `api`
 - **Action:** Correct state mutation bug
 - **Journal:** Resolved an issue causing UI jank during scrolling on mobile.
+
+### Sun, 12 Apr 2026 05:06:27 GMT
+- **Type:** LEARNING
+- **Scope:** `dsa`
+- **Action:** Review AWS serverless architecture patterns
+- **Journal:** Read up on system design concepts. Deep dive into caching strategies and load balancing.
