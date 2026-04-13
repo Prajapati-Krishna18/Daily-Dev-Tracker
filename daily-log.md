@@ -322,3 +322,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `readme`
 - **Action:** Update architecture diagrams
 - **Journal:** Added inline comments to complex algorithmic functions for future reference.
+
+### Mon, 13 Apr 2026 17:16:04 GMT
+- **Type:** DOCS
+- **Scope:** `readme`
+- **Action:** Improve contribution guidelines
+- **Journal:** Fleshed out the API documentation for the newly added endpoints.
