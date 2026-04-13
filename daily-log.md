@@ -328,3 +328,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `readme`
 - **Action:** Improve contribution guidelines
 - **Journal:** Fleshed out the API documentation for the newly added endpoints.
+
+### Mon, 13 Apr 2026 21:35:31 GMT
+- **Type:** REFACTOR
+- **Scope:** `utils`
+- **Action:** Extract common logic into custom hook
+- **Journal:** Refactored some legacy code to be more readable and maintainable.
