@@ -358,3 +358,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `tests`
 - **Action:** Fix flaky integration tests
 - **Journal:** Debugged and fixed some annoying edge case bugs today.
+
+### Tue, 14 Apr 2026 21:38:23 GMT
+- **Type:** REFACTOR
+- **Scope:** `components`
+- **Action:** Extract common logic into custom hook
+- **Journal:** Extracted repetitive logic into its own utility function to keep things DRY.
