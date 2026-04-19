@@ -490,3 +490,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `readme`
 - **Action:** Improve contribution guidelines
 - **Journal:** Fleshed out the API documentation for the newly added endpoints.
+
+### Sun, 19 Apr 2026 07:55:36 GMT
+- **Type:** DOCS
+- **Scope:** `readme`
+- **Action:** Update setup instructions
+- **Journal:** Updated the README for better onboarding of new contributors.
