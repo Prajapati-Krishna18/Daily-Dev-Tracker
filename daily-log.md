@@ -484,3 +484,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `auth`
 - **Action:** Implement global state management
 - **Journal:** Added the core functionality for this module. Smooth implementation, mostly matching the specs.
+
+### Sun, 19 Apr 2026 05:10:49 GMT
+- **Type:** DOCS
+- **Scope:** `readme`
+- **Action:** Improve contribution guidelines
+- **Journal:** Fleshed out the API documentation for the newly added endpoints.
