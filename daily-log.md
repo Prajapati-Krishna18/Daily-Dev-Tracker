@@ -562,3 +562,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `ci`
 - **Action:** Tweak GitHub Actions CI pipeline
 - **Journal:** Cleaned up some unused files and configs.
+
+### Tue, 21 Apr 2026 17:14:19 GMT
+- **Type:** REFACTOR
+- **Scope:** `components`
+- **Action:** Reorganize folder structure for domain driven design
+- **Journal:** Refactored some legacy code to be more readable and maintainable.
