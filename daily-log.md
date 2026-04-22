@@ -586,3 +586,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `auth`
 - **Action:** Add dark mode toggle functionality
 - **Journal:** Focusing on scaling the new feature. Built the foundation and mapped out the core components.
+
+### Wed, 22 Apr 2026 12:12:20 GMT
+- **Type:** LEARNING
+- **Scope:** `system-design`
+- **Action:** Read up on advanced React design patterns
+- **Journal:** Spent time learning some new architectural patterns.
