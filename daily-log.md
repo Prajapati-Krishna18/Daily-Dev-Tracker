@@ -676,3 +676,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `cloud`
 - **Action:** Review AWS serverless architecture patterns
 - **Journal:** Spent time learning some new architectural patterns.
+
+### Sat, 25 Apr 2026 11:58:37 GMT
+- **Type:** DOCS
+- **Scope:** `setup`
+- **Action:** Update setup instructions
+- **Journal:** Fleshed out the API documentation for the newly added endpoints.
