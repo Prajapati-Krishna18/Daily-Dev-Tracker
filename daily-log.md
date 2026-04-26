@@ -706,3 +706,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `hooks`
 - **Action:** Reorganize folder structure for domain driven design
 - **Journal:** Refactored some legacy code to be more readable and maintainable.
+
+### Sun, 26 Apr 2026 12:00:35 GMT
+- **Type:** FEAT
+- **Scope:** `auth`
+- **Action:** Implement global state management
+- **Journal:** Focusing on scaling the new feature. Built the foundation and mapped out the core components.
