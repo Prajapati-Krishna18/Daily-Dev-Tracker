@@ -748,3 +748,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `components`
 - **Action:** Simplify state management tree
 - **Journal:** Refactored some legacy code to be more readable and maintainable.
+
+### Mon, 27 Apr 2026 21:41:50 GMT
+- **Type:** REFACTOR
+- **Scope:** `components`
+- **Action:** Extract common logic into custom hook
+- **Journal:** Refactored some legacy code to be more readable and maintainable.
