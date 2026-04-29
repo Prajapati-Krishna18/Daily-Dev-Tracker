@@ -796,3 +796,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `api`
 - **Action:** Document API endpoints with Swagger
 - **Journal:** Spent time writing documentation today. Clear docs are better than clever code.
+
+### Wed, 29 Apr 2026 13:02:26 GMT
+- **Type:** DOCS
+- **Scope:** `api`
+- **Action:** Add JSDoc comments to core functions
+- **Journal:** Fleshed out the API documentation for the newly added endpoints.
