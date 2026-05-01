@@ -856,3 +856,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `readme`
 - **Action:** Document API endpoints with Swagger
 - **Journal:** Fleshed out the API documentation for the newly added endpoints.
+
+### Fri, 01 May 2026 12:10:47 GMT
+- **Type:** FEAT
+- **Scope:** `api`
+- **Action:** Build reusable UI components
+- **Journal:** Integrated backend API with frontend state nicely. Handled loading and error states.
