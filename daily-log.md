@@ -916,3 +916,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `components`
 - **Action:** Reorganize folder structure for domain driven design
 - **Journal:** Refactored some legacy code to be more readable and maintainable.
+
+### Sun, 03 May 2026 12:02:25 GMT
+- **Type:** DOCS
+- **Scope:** `readme`
+- **Action:** Document API endpoints with Swagger
+- **Journal:** Fleshed out the API documentation for the newly added endpoints.
