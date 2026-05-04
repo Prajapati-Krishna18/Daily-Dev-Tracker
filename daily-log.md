@@ -946,3 +946,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `api`
 - **Action:** Setup React Router configuration
 - **Journal:** Integrated backend API with frontend state nicely. Handled loading and error states.
+
+### Mon, 04 May 2026 13:02:57 GMT
+- **Type:** CHORE
+- **Scope:** `deps`
+- **Action:** Migrate build tool setup
+- **Journal:** Tweaked the build configuration. Reduced bundle size slightly.
