@@ -940,3 +940,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `auth`
 - **Action:** Integrate payment gateway mock
 - **Journal:** Integrated backend API with frontend state nicely. Handled loading and error states.
+
+### Mon, 04 May 2026 09:05:43 GMT
+- **Type:** FEAT
+- **Scope:** `api`
+- **Action:** Setup React Router configuration
+- **Journal:** Integrated backend API with frontend state nicely. Handled loading and error states.
