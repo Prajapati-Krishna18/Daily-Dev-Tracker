@@ -982,3 +982,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `api`
 - **Action:** Update setup instructions
 - **Journal:** Fleshed out the API documentation for the newly added endpoints.
+
+### Tue, 05 May 2026 17:45:32 GMT
+- **Type:** REFACTOR
+- **Scope:** `utils`
+- **Action:** Clean up messy controller code
+- **Journal:** Extracted repetitive logic into its own utility function to keep things DRY.
