@@ -988,3 +988,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `utils`
 - **Action:** Clean up messy controller code
 - **Journal:** Extracted repetitive logic into its own utility function to keep things DRY.
+
+### Tue, 05 May 2026 21:46:53 GMT
+- **Type:** DOCS
+- **Scope:** `api`
+- **Action:** Improve contribution guidelines
+- **Journal:** Updated the README for better onboarding of new contributors.
