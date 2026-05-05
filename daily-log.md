@@ -964,3 +964,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `ci`
 - **Action:** Migrate build tool setup
 - **Journal:** Updated dependencies, bumping versions to clear some security advisories.
+
+### Tue, 05 May 2026 05:22:53 GMT
+- **Type:** FEAT
+- **Scope:** `api`
+- **Action:** Integrate payment gateway mock
+- **Journal:** Bootstrapped the new service, setting up the basic connections and middleware.
