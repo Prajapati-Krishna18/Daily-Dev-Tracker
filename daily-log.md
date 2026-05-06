@@ -1012,3 +1012,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `dsa`
 - **Action:** Practice dynamic programming and graph problems
 - **Journal:** Spent time learning some new architectural patterns.
+
+### Wed, 06 May 2026 17:49:00 GMT
+- **Type:** DOCS
+- **Scope:** `setup`
+- **Action:** Document API endpoints with Swagger
+- **Journal:** Fleshed out the API documentation for the newly added endpoints.
