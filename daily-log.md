@@ -1180,3 +1180,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `system-design`
 - **Action:** Review AWS serverless architecture patterns
 - **Journal:** Watched a conference talk and implemented some of the learnings into a sandbox project.
+
+### Tue, 12 May 2026 09:20:52 GMT
+- **Type:** CHORE
+- **Scope:** `ci`
+- **Action:** Tweak GitHub Actions CI pipeline
+- **Journal:** Cleaned up some unused files and configs.
