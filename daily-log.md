@@ -1222,3 +1222,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `deps`
 - **Action:** Configure ESLint and Prettier rules
 - **Journal:** Cleaned up some unused files and configs.
+
+### Wed, 13 May 2026 18:08:11 GMT
+- **Type:** FIX
+- **Scope:** `state`
+- **Action:** Patch memory leak in effect hook
+- **Journal:** Resolved an issue causing UI jank during scrolling on mobile.
