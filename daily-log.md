@@ -1246,3 +1246,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `database`
 - **Action:** Build reusable UI components
 - **Journal:** Spent time bringing the new UI component to life. Accessibility and responsive design were the priorities.
+
+### Thu, 14 May 2026 13:11:28 GMT
+- **Type:** REFACTOR
+- **Scope:** `utils`
+- **Action:** Clean up messy controller code
+- **Journal:** Extracted repetitive logic into its own utility function to keep things DRY.
