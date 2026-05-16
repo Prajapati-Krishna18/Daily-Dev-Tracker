@@ -1318,3 +1318,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `services`
 - **Action:** Reorganize folder structure for domain driven design
 - **Journal:** Extracted repetitive logic into its own utility function to keep things DRY.
+
+### Sat, 16 May 2026 21:35:36 GMT
+- **Type:** FEAT
+- **Scope:** `api`
+- **Action:** Setup React Router configuration
+- **Journal:** Integrated backend API with frontend state nicely. Handled loading and error states.
