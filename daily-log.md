@@ -1330,3 +1330,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `deps`
 - **Action:** Migrate build tool setup
 - **Journal:** Updated dependencies, bumping versions to clear some security advisories.
+
+### Sun, 17 May 2026 08:37:50 GMT
+- **Type:** FEAT
+- **Scope:** `core`
+- **Action:** Create data models for users
+- **Journal:** Added the core functionality for this module. Smooth implementation, mostly matching the specs.
