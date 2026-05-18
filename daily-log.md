@@ -1354,3 +1354,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `core`
 - **Action:** Implement user authentication endpoint
 - **Journal:** Integrated backend API with frontend state nicely. Handled loading and error states.
+
+### Mon, 18 May 2026 06:32:50 GMT
+- **Type:** REFACTOR
+- **Scope:** `components`
+- **Action:** Extract common logic into custom hook
+- **Journal:** Extracted repetitive logic into its own utility function to keep things DRY.
