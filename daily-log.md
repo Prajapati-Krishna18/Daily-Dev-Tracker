@@ -1408,3 +1408,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `state`
 - **Action:** Correct state mutation bug
 - **Journal:** Resolved an issue causing UI jank during scrolling on mobile.
+
+### Tue, 19 May 2026 22:01:16 GMT
+- **Type:** DOCS
+- **Scope:** `arch`
+- **Action:** Update setup instructions
+- **Journal:** Updated the README for better onboarding of new contributors.
