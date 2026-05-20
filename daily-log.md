@@ -1420,3 +1420,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `system-design`
 - **Action:** Study distributed systems concepts
 - **Journal:** Watched a conference talk and implemented some of the learnings into a sandbox project.
+
+### Wed, 20 May 2026 10:03:05 GMT
+- **Type:** FEAT
+- **Scope:** `core`
+- **Action:** Setup React Router configuration
+- **Journal:** Bootstrapped the new service, setting up the basic connections and middleware.
