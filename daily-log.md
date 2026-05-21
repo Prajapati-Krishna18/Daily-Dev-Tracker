@@ -1450,3 +1450,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `ci`
 - **Action:** Tweak GitHub Actions CI pipeline
 - **Journal:** Cleaned up some unused files and configs.
+
+### Thu, 21 May 2026 10:24:05 GMT
+- **Type:** CHORE
+- **Scope:** `build`
+- **Action:** Tweak GitHub Actions CI pipeline
+- **Journal:** Tweaked the build configuration. Reduced bundle size slightly.
