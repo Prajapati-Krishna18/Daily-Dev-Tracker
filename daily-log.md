@@ -1492,3 +1492,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `api`
 - **Action:** Document API endpoints with Swagger
 - **Journal:** Fleshed out the API documentation for the newly added endpoints.
+
+### Fri, 22 May 2026 18:00:18 GMT
+- **Type:** DOCS
+- **Scope:** `readme`
+- **Action:** Update setup instructions
+- **Journal:** Updated the README for better onboarding of new contributors.
