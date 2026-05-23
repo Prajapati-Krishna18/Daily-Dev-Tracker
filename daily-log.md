@@ -1522,3 +1522,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `hooks`
 - **Action:** Simplify state management tree
 - **Journal:** Optimized the performance of a slow path. Looks much better on the profiler now.
+
+### Sat, 23 May 2026 21:40:12 GMT
+- **Type:** DOCS
+- **Scope:** `setup`
+- **Action:** Improve contribution guidelines
+- **Journal:** Updated the README for better onboarding of new contributors.
