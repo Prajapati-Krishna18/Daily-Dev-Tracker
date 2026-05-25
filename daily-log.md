@@ -1576,3 +1576,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `core`
 - **Action:** Integrate payment gateway mock
 - **Journal:** Added the core functionality for this module. Smooth implementation, mostly matching the specs.
+
+### Mon, 25 May 2026 17:50:47 GMT
+- **Type:** DOCS
+- **Scope:** `api`
+- **Action:** Document API endpoints with Swagger
+- **Journal:** Updated the README for better onboarding of new contributors.
