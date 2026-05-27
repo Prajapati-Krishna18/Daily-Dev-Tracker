@@ -1636,3 +1636,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `config`
 - **Action:** Optimize database query for faster load time
 - **Journal:** Optimized the performance of a slow path. Looks much better on the profiler now.
+
+### Wed, 27 May 2026 18:31:36 GMT
+- **Type:** LEARNING
+- **Scope:** `system-design`
+- **Action:** Practice dynamic programming and graph problems
+- **Journal:** Read up on system design concepts. Deep dive into caching strategies and load balancing.
