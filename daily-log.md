@@ -1618,3 +1618,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `system-design`
 - **Action:** Read up on advanced React design patterns
 - **Journal:** Practiced DSA problems today. Focused on sliding window and two-pointer techniques.
+
+### Wed, 27 May 2026 06:39:16 GMT
+- **Type:** DOCS
+- **Scope:** `readme`
+- **Action:** Document API endpoints with Swagger
+- **Journal:** Updated the README for better onboarding of new contributors.
