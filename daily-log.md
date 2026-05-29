@@ -1684,3 +1684,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `lint`
 - **Action:** Tweak GitHub Actions CI pipeline
 - **Journal:** Fixed some linter warnings across the codebase and enforced stricter rules.
+
+### Fri, 29 May 2026 10:32:34 GMT
+- **Type:** DOCS
+- **Scope:** `readme`
+- **Action:** Add JSDoc comments to core functions
+- **Journal:** Updated the README for better onboarding of new contributors.
