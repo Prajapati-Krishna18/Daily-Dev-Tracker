@@ -1702,3 +1702,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `arch`
 - **Action:** Update setup instructions
 - **Journal:** Fleshed out the API documentation for the newly added endpoints.
+
+### Fri, 29 May 2026 22:21:30 GMT
+- **Type:** REFACTOR
+- **Scope:** `services`
+- **Action:** Reorganize folder structure for domain driven design
+- **Journal:** Extracted repetitive logic into its own utility function to keep things DRY.
