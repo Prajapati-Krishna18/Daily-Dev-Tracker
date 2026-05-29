@@ -1696,3 +1696,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `api`
 - **Action:** Build reusable UI components
 - **Journal:** Added the core functionality for this module. Smooth implementation, mostly matching the specs.
+
+### Fri, 29 May 2026 18:40:07 GMT
+- **Type:** DOCS
+- **Scope:** `arch`
+- **Action:** Update setup instructions
+- **Journal:** Fleshed out the API documentation for the newly added endpoints.
