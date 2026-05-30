@@ -1720,3 +1720,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `config`
 - **Action:** Optimize database query for faster load time
 - **Journal:** Optimized the performance of a slow path. Looks much better on the profiler now.
+
+### Sat, 30 May 2026 12:44:11 GMT
+- **Type:** FIX
+- **Scope:** `state`
+- **Action:** Fix flaky integration tests
+- **Journal:** Patched a state bug that took a while to track down in the profiler.
