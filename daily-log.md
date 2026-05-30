@@ -1726,3 +1726,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `state`
 - **Action:** Fix flaky integration tests
 - **Journal:** Patched a state bug that took a while to track down in the profiler.
+
+### Sat, 30 May 2026 17:18:26 GMT
+- **Type:** CHORE
+- **Scope:** `lint`
+- **Action:** Migrate build tool setup
+- **Journal:** Updated dependencies, bumping versions to clear some security advisories.
