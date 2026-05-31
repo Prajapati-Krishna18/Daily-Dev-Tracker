@@ -1738,3 +1738,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `components`
 - **Action:** Clean up messy controller code
 - **Journal:** Refactored some legacy code to be more readable and maintainable.
+
+### Sun, 31 May 2026 06:34:16 GMT
+- **Type:** LEARNING
+- **Scope:** `system-design`
+- **Action:** Review AWS serverless architecture patterns
+- **Journal:** Read up on system design concepts. Deep dive into caching strategies and load balancing.
