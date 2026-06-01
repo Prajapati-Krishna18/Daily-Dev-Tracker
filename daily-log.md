@@ -1780,3 +1780,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `api`
 - **Action:** Patch memory leak in effect hook
 - **Journal:** Squashed some technical debt bugs, which should improve overall stability.
+
+### Mon, 01 Jun 2026 16:58:50 GMT
+- **Type:** LEARNING
+- **Scope:** `patterns`
+- **Action:** Read up on advanced React design patterns
+- **Journal:** Spent time learning some new architectural patterns.
