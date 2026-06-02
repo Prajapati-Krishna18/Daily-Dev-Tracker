@@ -1822,3 +1822,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `utils`
 - **Action:** Clean up messy controller code
 - **Journal:** Refactored some legacy code to be more readable and maintainable.
+
+### Tue, 02 Jun 2026 22:52:00 GMT
+- **Type:** DOCS
+- **Scope:** `api`
+- **Action:** Update setup instructions
+- **Journal:** Spent time writing documentation today. Clear docs are better than clever code.
