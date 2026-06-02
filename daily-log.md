@@ -1816,3 +1816,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `setup`
 - **Action:** Add JSDoc comments to core functions
 - **Journal:** Fleshed out the API documentation for the newly added endpoints.
+
+### Tue, 02 Jun 2026 19:50:34 GMT
+- **Type:** REFACTOR
+- **Scope:** `utils`
+- **Action:** Clean up messy controller code
+- **Journal:** Refactored some legacy code to be more readable and maintainable.
