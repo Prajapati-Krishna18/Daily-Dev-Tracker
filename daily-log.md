@@ -1882,3 +1882,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `router`
 - **Action:** Add dark mode toggle functionality
 - **Journal:** Integrated backend API with frontend state nicely. Handled loading and error states.
+
+### Thu, 04 Jun 2026 22:13:41 GMT
+- **Type:** DOCS
+- **Scope:** `api`
+- **Action:** Update setup instructions
+- **Journal:** Updated the README for better onboarding of new contributors.
