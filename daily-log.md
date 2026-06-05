@@ -1906,3 +1906,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `ci`
 - **Action:** Migrate build tool setup
 - **Journal:** Updated dependencies, bumping versions to clear some security advisories.
+
+### Fri, 05 Jun 2026 18:04:46 GMT
+- **Type:** DOCS
+- **Scope:** `arch`
+- **Action:** Document API endpoints with Swagger
+- **Journal:** Fleshed out the API documentation for the newly added endpoints.
