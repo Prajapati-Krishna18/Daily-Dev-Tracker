@@ -1900,3 +1900,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `system-design`
 - **Action:** Practice dynamic programming and graph problems
 - **Journal:** Watched a conference talk and implemented some of the learnings into a sandbox project.
+
+### Fri, 05 Jun 2026 14:04:59 GMT
+- **Type:** CHORE
+- **Scope:** `ci`
+- **Action:** Migrate build tool setup
+- **Journal:** Updated dependencies, bumping versions to clear some security advisories.
