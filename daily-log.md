@@ -1960,3 +1960,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `deps`
 - **Action:** Configure ESLint and Prettier rules
 - **Journal:** Tweaked the build configuration. Reduced bundle size slightly.
+
+### Sun, 07 Jun 2026 12:55:43 GMT
+- **Type:** REFACTOR
+- **Scope:** `services`
+- **Action:** Clean up messy controller code
+- **Journal:** Extracted repetitive logic into its own utility function to keep things DRY.
