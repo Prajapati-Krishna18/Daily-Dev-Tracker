@@ -1948,3 +1948,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `arch`
 - **Action:** Update setup instructions
 - **Journal:** Added inline comments to complex algorithmic functions for future reference.
+
+### Sun, 07 Jun 2026 06:41:31 GMT
+- **Type:** FEAT
+- **Scope:** `core`
+- **Action:** Setup React Router configuration
+- **Journal:** Integrated backend API with frontend state nicely. Handled loading and error states.
