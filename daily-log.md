@@ -2020,3 +2020,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `api`
 - **Action:** Add JSDoc comments to core functions
 - **Journal:** Spent time writing documentation today. Clear docs are better than clever code.
+
+### Tue, 09 Jun 2026 13:57:25 GMT
+- **Type:** REFACTOR
+- **Scope:** `config`
+- **Action:** Clean up messy controller code
+- **Journal:** Extracted repetitive logic into its own utility function to keep things DRY.
