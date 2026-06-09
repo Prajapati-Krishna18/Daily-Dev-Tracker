@@ -2026,3 +2026,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `config`
 - **Action:** Clean up messy controller code
 - **Journal:** Extracted repetitive logic into its own utility function to keep things DRY.
+
+### Tue, 09 Jun 2026 18:18:36 GMT
+- **Type:** FEAT
+- **Scope:** `ui`
+- **Action:** Setup React Router configuration
+- **Journal:** Focusing on scaling the new feature. Built the foundation and mapped out the core components.
