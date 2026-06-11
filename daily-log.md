@@ -2068,3 +2068,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `components`
 - **Action:** Optimize database query for faster load time
 - **Journal:** Extracted repetitive logic into its own utility function to keep things DRY.
+
+### Thu, 11 Jun 2026 07:03:29 GMT
+- **Type:** DOCS
+- **Scope:** `api`
+- **Action:** Update setup instructions
+- **Journal:** Fleshed out the API documentation for the newly added endpoints.
