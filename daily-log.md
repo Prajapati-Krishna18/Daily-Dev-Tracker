@@ -2080,3 +2080,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `build`
 - **Action:** Update npm packages to latest versions
 - **Journal:** Cleaned up some unused files and configs.
+
+### Thu, 11 Jun 2026 15:00:32 GMT
+- **Type:** FEAT
+- **Scope:** `auth`
+- **Action:** Implement global state management
+- **Journal:** Integrated backend API with frontend state nicely. Handled loading and error states.
