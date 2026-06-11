@@ -2086,3 +2086,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `auth`
 - **Action:** Implement global state management
 - **Journal:** Integrated backend API with frontend state nicely. Handled loading and error states.
+
+### Thu, 11 Jun 2026 18:52:03 GMT
+- **Type:** DOCS
+- **Scope:** `setup`
+- **Action:** Update setup instructions
+- **Journal:** Fleshed out the API documentation for the newly added endpoints.
