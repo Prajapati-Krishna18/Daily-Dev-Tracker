@@ -2170,3 +2170,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `ui`
 - **Action:** Resolve null pointer exception in controller
 - **Journal:** Patched a state bug that took a while to track down in the profiler.
+
+### Sun, 14 Jun 2026 13:10:08 GMT
+- **Type:** DOCS
+- **Scope:** `readme`
+- **Action:** Document API endpoints with Swagger
+- **Journal:** Spent time writing documentation today. Clear docs are better than clever code.
