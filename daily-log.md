@@ -2326,3 +2326,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `lint`
 - **Action:** Tweak GitHub Actions CI pipeline
 - **Journal:** Tweaked the build configuration. Reduced bundle size slightly.
+
+### Fri, 19 Jun 2026 18:04:32 GMT
+- **Type:** CHORE
+- **Scope:** `deps`
+- **Action:** Migrate build tool setup
+- **Journal:** Tweaked the build configuration. Reduced bundle size slightly.
