@@ -2350,3 +2350,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `ui`
 - **Action:** Integrate payment gateway mock
 - **Journal:** Bootstrapped the new service, setting up the basic connections and middleware.
+
+### Sat, 20 Jun 2026 13:01:13 GMT
+- **Type:** REFACTOR
+- **Scope:** `services`
+- **Action:** Extract common logic into custom hook
+- **Journal:** Extracted repetitive logic into its own utility function to keep things DRY.
