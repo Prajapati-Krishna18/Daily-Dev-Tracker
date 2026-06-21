@@ -2380,3 +2380,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `deps`
 - **Action:** Update npm packages to latest versions
 - **Journal:** Tweaked the build configuration. Reduced bundle size slightly.
+
+### Sun, 21 Jun 2026 13:20:13 GMT
+- **Type:** FEAT
+- **Scope:** `core`
+- **Action:** Setup React Router configuration
+- **Journal:** Integrated backend API with frontend state nicely. Handled loading and error states.
