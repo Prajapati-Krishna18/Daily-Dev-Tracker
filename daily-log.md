@@ -2416,3 +2416,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `state`
 - **Action:** Patch memory leak in effect hook
 - **Journal:** Fixed the race condition that was triggering sporadic failures in the CI pipeline.
+
+### Mon, 22 Jun 2026 19:39:06 GMT
+- **Type:** DOCS
+- **Scope:** `setup`
+- **Action:** Update architecture diagrams
+- **Journal:** Fleshed out the API documentation for the newly added endpoints.
