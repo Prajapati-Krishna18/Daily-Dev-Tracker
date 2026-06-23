@@ -2434,3 +2434,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `router`
 - **Action:** Implement user authentication endpoint
 - **Journal:** Focusing on scaling the new feature. Built the foundation and mapped out the core components.
+
+### Tue, 23 Jun 2026 10:22:25 GMT
+- **Type:** DOCS
+- **Scope:** `setup`
+- **Action:** Update setup instructions
+- **Journal:** Added inline comments to complex algorithmic functions for future reference.
