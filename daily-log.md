@@ -2476,3 +2476,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `build`
 - **Action:** Tweak GitHub Actions CI pipeline
 - **Journal:** Tweaked the build configuration. Reduced bundle size slightly.
+
+### Wed, 24 Jun 2026 18:03:54 GMT
+- **Type:** DOCS
+- **Scope:** `readme`
+- **Action:** Update architecture diagrams
+- **Journal:** Added inline comments to complex algorithmic functions for future reference.
