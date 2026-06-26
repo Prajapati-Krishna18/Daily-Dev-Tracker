@@ -2530,3 +2530,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `state`
 - **Action:** Fix alignment issues on mobile view
 - **Journal:** Debugged and fixed some annoying edge case bugs today.
+
+### Fri, 26 Jun 2026 13:26:25 GMT
+- **Type:** DOCS
+- **Scope:** `readme`
+- **Action:** Update setup instructions
+- **Journal:** Spent time writing documentation today. Clear docs are better than clever code.
