@@ -2584,3 +2584,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `arch`
 - **Action:** Update architecture diagrams
 - **Journal:** Spent time writing documentation today. Clear docs are better than clever code.
+
+### Sun, 28 Jun 2026 09:44:56 GMT
+- **Type:** REFACTOR
+- **Scope:** `config`
+- **Action:** Clean up messy controller code
+- **Journal:** Extracted repetitive logic into its own utility function to keep things DRY.
