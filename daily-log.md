@@ -2620,3 +2620,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `ui`
 - **Action:** Setup React Router configuration
 - **Journal:** Integrated backend API with frontend state nicely. Handled loading and error states.
+
+### Mon, 29 Jun 2026 14:54:42 GMT
+- **Type:** REFACTOR
+- **Scope:** `utils`
+- **Action:** Simplify state management tree
+- **Journal:** Extracted repetitive logic into its own utility function to keep things DRY.
