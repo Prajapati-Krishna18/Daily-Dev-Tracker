@@ -2656,3 +2656,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `cache`
 - **Action:** Patch memory leak in effect hook
 - **Journal:** Fixed the race condition that was triggering sporadic failures in the CI pipeline.
+
+### Tue, 30 Jun 2026 18:07:27 GMT
+- **Type:** DOCS
+- **Scope:** `readme`
+- **Action:** Improve contribution guidelines
+- **Journal:** Updated the README for better onboarding of new contributors.
