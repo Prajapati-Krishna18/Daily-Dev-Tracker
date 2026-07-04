@@ -2770,3 +2770,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `services`
 - **Action:** Extract common logic into custom hook
 - **Journal:** Extracted repetitive logic into its own utility function to keep things DRY.
+
+### Sat, 04 Jul 2026 12:39:20 GMT
+- **Type:** CHORE
+- **Scope:** `build`
+- **Action:** Migrate build tool setup
+- **Journal:** Fixed some linter warnings across the codebase and enforced stricter rules.
