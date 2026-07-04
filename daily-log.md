@@ -2764,3 +2764,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `ui`
 - **Action:** Resolve null pointer exception in controller
 - **Journal:** Squashed some technical debt bugs, which should improve overall stability.
+
+### Sat, 04 Jul 2026 09:07:14 GMT
+- **Type:** REFACTOR
+- **Scope:** `services`
+- **Action:** Extract common logic into custom hook
+- **Journal:** Extracted repetitive logic into its own utility function to keep things DRY.
