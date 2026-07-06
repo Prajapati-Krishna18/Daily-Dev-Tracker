@@ -2830,3 +2830,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `components`
 - **Action:** Reorganize folder structure for domain driven design
 - **Journal:** Refactored some legacy code to be more readable and maintainable.
+
+### Mon, 06 Jul 2026 14:41:05 GMT
+- **Type:** DOCS
+- **Scope:** `setup`
+- **Action:** Update setup instructions
+- **Journal:** Spent time writing documentation today. Clear docs are better than clever code.
