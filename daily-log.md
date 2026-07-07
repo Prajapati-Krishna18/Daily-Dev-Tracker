@@ -2866,3 +2866,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `patterns`
 - **Action:** Read up on advanced React design patterns
 - **Journal:** Watched a conference talk and implemented some of the learnings into a sandbox project.
+
+### Tue, 07 Jul 2026 18:11:35 GMT
+- **Type:** DOCS
+- **Scope:** `setup`
+- **Action:** Update setup instructions
+- **Journal:** Spent time writing documentation today. Clear docs are better than clever code.
