@@ -2854,3 +2854,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `styles`
 - **Action:** Fix flaky integration tests
 - **Journal:** Patched a state bug that took a while to track down in the profiler.
+
+### Tue, 07 Jul 2026 10:07:39 GMT
+- **Type:** DOCS
+- **Scope:** `setup`
+- **Action:** Update setup instructions
+- **Journal:** Added inline comments to complex algorithmic functions for future reference.
