@@ -2920,3 +2920,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `lint`
 - **Action:** Tweak GitHub Actions CI pipeline
 - **Journal:** Updated dependencies, bumping versions to clear some security advisories.
+
+### Thu, 09 Jul 2026 14:01:23 GMT
+- **Type:** FIX
+- **Scope:** `api`
+- **Action:** Correct state mutation bug
+- **Journal:** Patched a state bug that took a while to track down in the profiler.
