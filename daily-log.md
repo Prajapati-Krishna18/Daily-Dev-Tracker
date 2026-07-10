@@ -2938,3 +2938,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `ci`
 - **Action:** Configure ESLint and Prettier rules
 - **Journal:** Tweaked the build configuration. Reduced bundle size slightly.
+
+### Fri, 10 Jul 2026 06:14:05 GMT
+- **Type:** DOCS
+- **Scope:** `readme`
+- **Action:** Add JSDoc comments to core functions
+- **Journal:** Fleshed out the API documentation for the newly added endpoints.
