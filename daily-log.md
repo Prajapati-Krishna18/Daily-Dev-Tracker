@@ -3010,3 +3010,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `deps`
 - **Action:** Update npm packages to latest versions
 - **Journal:** Updated dependencies, bumping versions to clear some security advisories.
+
+### Sun, 12 Jul 2026 12:11:09 GMT
+- **Type:** DOCS
+- **Scope:** `arch`
+- **Action:** Update setup instructions
+- **Journal:** Added inline comments to complex algorithmic functions for future reference.
