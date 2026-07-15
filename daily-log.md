@@ -3112,3 +3112,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `auth`
 - **Action:** Add dark mode toggle functionality
 - **Journal:** Focusing on scaling the new feature. Built the foundation and mapped out the core components.
+
+### Wed, 15 Jul 2026 21:42:46 GMT
+- **Type:** REFACTOR
+- **Scope:** `components`
+- **Action:** Extract common logic into custom hook
+- **Journal:** Cleaned up tech debt. Broke down large functions into smaller, testable units.
