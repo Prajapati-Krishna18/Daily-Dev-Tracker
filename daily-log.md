@@ -3094,3 +3094,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `api`
 - **Action:** Update architecture diagrams
 - **Journal:** Fleshed out the API documentation for the newly added endpoints.
+
+### Wed, 15 Jul 2026 08:57:56 GMT
+- **Type:** DOCS
+- **Scope:** `readme`
+- **Action:** Update setup instructions
+- **Journal:** Added inline comments to complex algorithmic functions for future reference.
