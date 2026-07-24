@@ -3382,3 +3382,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `lint`
 - **Action:** Tweak GitHub Actions CI pipeline
 - **Journal:** Updated dependencies, bumping versions to clear some security advisories.
+
+### Fri, 24 Jul 2026 21:48:01 GMT
+- **Type:** DOCS
+- **Scope:** `api`
+- **Action:** Update architecture diagrams
+- **Journal:** Updated the README for better onboarding of new contributors.
