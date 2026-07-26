@@ -3436,3 +3436,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `deps`
 - **Action:** Tweak GitHub Actions CI pipeline
 - **Journal:** Updated dependencies, bumping versions to clear some security advisories.
+
+### Sun, 26 Jul 2026 17:11:23 GMT
+- **Type:** CHORE
+- **Scope:** `lint`
+- **Action:** Tweak GitHub Actions CI pipeline
+- **Journal:** Cleaned up some unused files and configs.
