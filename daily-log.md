@@ -3442,3 +3442,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `lint`
 - **Action:** Tweak GitHub Actions CI pipeline
 - **Journal:** Cleaned up some unused files and configs.
+
+### Sun, 26 Jul 2026 21:43:20 GMT
+- **Type:** DOCS
+- **Scope:** `api`
+- **Action:** Add JSDoc comments to core functions
+- **Journal:** Fleshed out the API documentation for the newly added endpoints.
