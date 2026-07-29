@@ -3508,3 +3508,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `styles`
 - **Action:** Resolve null pointer exception in controller
 - **Journal:** Squashed some technical debt bugs, which should improve overall stability.
+
+### Wed, 29 Jul 2026 05:30:34 GMT
+- **Type:** DOCS
+- **Scope:** `readme`
+- **Action:** Update setup instructions
+- **Journal:** Fleshed out the API documentation for the newly added endpoints.
