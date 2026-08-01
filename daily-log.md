@@ -3610,3 +3610,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `setup`
 - **Action:** Update architecture diagrams
 - **Journal:** Updated the README for better onboarding of new contributors.
+
+### Sat, 01 Aug 2026 12:31:57 GMT
+- **Type:** DOCS
+- **Scope:** `readme`
+- **Action:** Improve contribution guidelines
+- **Journal:** Updated the README for better onboarding of new contributors.
