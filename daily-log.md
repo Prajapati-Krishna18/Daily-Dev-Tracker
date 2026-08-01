@@ -3604,3 +3604,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `dsa`
 - **Action:** Read up on advanced React design patterns
 - **Journal:** Watched a conference talk and implemented some of the learnings into a sandbox project.
+
+### Sat, 01 Aug 2026 08:55:12 GMT
+- **Type:** DOCS
+- **Scope:** `setup`
+- **Action:** Update architecture diagrams
+- **Journal:** Updated the README for better onboarding of new contributors.
