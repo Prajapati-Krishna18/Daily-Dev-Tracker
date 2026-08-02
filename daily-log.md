@@ -3640,3 +3640,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `ci`
 - **Action:** Migrate build tool setup
 - **Journal:** Fixed some linter warnings across the codebase and enforced stricter rules.
+
+### Sun, 02 Aug 2026 12:32:21 GMT
+- **Type:** REFACTOR
+- **Scope:** `hooks`
+- **Action:** Extract common logic into custom hook
+- **Journal:** Extracted repetitive logic into its own utility function to keep things DRY.
