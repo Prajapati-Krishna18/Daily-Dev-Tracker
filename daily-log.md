@@ -3646,3 +3646,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `hooks`
 - **Action:** Extract common logic into custom hook
 - **Journal:** Extracted repetitive logic into its own utility function to keep things DRY.
+
+### Sun, 02 Aug 2026 17:11:14 GMT
+- **Type:** REFACTOR
+- **Scope:** `services`
+- **Action:** Extract common logic into custom hook
+- **Journal:** Optimized the performance of a slow path. Looks much better on the profiler now.
