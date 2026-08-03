@@ -3664,3 +3664,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `api`
 - **Action:** Fix flaky integration tests
 - **Journal:** Patched a state bug that took a while to track down in the profiler.
+
+### Mon, 03 Aug 2026 10:25:42 GMT
+- **Type:** DOCS
+- **Scope:** `api`
+- **Action:** Update architecture diagrams
+- **Journal:** Fleshed out the API documentation for the newly added endpoints.
