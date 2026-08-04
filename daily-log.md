@@ -3694,3 +3694,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `readme`
 - **Action:** Improve contribution guidelines
 - **Journal:** Updated the README for better onboarding of new contributors.
+
+### Tue, 04 Aug 2026 09:24:41 GMT
+- **Type:** REFACTOR
+- **Scope:** `components`
+- **Action:** Simplify state management tree
+- **Journal:** Extracted repetitive logic into its own utility function to keep things DRY.
