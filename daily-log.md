@@ -3820,3 +3820,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `services`
 - **Action:** Reorganize folder structure for domain driven design
 - **Journal:** Extracted repetitive logic into its own utility function to keep things DRY.
+
+### Sat, 08 Aug 2026 16:47:24 GMT
+- **Type:** REFACTOR
+- **Scope:** `services`
+- **Action:** Clean up messy controller code
+- **Journal:** Extracted repetitive logic into its own utility function to keep things DRY.
