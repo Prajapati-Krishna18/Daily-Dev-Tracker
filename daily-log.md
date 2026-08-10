@@ -3868,3 +3868,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `dsa`
 - **Action:** Practice dynamic programming and graph problems
 - **Journal:** Practiced DSA problems today. Focused on sliding window and two-pointer techniques.
+
+### Mon, 10 Aug 2026 08:14:59 GMT
+- **Type:** DOCS
+- **Scope:** `readme`
+- **Action:** Add JSDoc comments to core functions
+- **Journal:** Updated the README for better onboarding of new contributors.
