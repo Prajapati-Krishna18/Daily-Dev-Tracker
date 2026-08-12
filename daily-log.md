@@ -3922,3 +3922,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `build`
 - **Action:** Migrate build tool setup
 - **Journal:** Cleaned up some unused files and configs.
+
+### Wed, 12 Aug 2026 04:16:04 GMT
+- **Type:** DOCS
+- **Scope:** `setup`
+- **Action:** Improve contribution guidelines
+- **Journal:** Fleshed out the API documentation for the newly added endpoints.
