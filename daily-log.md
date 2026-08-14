@@ -4006,3 +4006,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `build`
 - **Action:** Update npm packages to latest versions
 - **Journal:** Fixed some linter warnings across the codebase and enforced stricter rules.
+
+### Fri, 14 Aug 2026 21:11:02 GMT
+- **Type:** DOCS
+- **Scope:** `api`
+- **Action:** Update architecture diagrams
+- **Journal:** Fleshed out the API documentation for the newly added endpoints.
