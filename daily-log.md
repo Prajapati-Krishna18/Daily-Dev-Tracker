@@ -4036,3 +4036,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `auth`
 - **Action:** Integrate payment gateway mock
 - **Journal:** Integrated backend API with frontend state nicely. Handled loading and error states.
+
+### Sat, 15 Aug 2026 21:02:39 GMT
+- **Type:** DOCS
+- **Scope:** `readme`
+- **Action:** Update architecture diagrams
+- **Journal:** Fleshed out the API documentation for the newly added endpoints.
