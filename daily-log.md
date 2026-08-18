@@ -4108,3 +4108,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `hooks`
 - **Action:** Simplify state management tree
 - **Journal:** Extracted repetitive logic into its own utility function to keep things DRY.
+
+### Tue, 18 Aug 2026 07:22:32 GMT
+- **Type:** DOCS
+- **Scope:** `readme`
+- **Action:** Update architecture diagrams
+- **Journal:** Fleshed out the API documentation for the newly added endpoints.
