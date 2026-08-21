@@ -4204,3 +4204,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `components`
 - **Action:** Reorganize folder structure for domain driven design
 - **Journal:** Cleaned up tech debt. Broke down large functions into smaller, testable units.
+
+### Fri, 21 Aug 2026 11:48:58 GMT
+- **Type:** FEAT
+- **Scope:** `ui`
+- **Action:** Create data models for users
+- **Journal:** Bootstrapped the new service, setting up the basic connections and middleware.
