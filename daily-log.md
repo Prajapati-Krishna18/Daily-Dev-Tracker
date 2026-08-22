@@ -4240,3 +4240,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `utils`
 - **Action:** Simplify state management tree
 - **Journal:** Extracted repetitive logic into its own utility function to keep things DRY.
+
+### Sat, 22 Aug 2026 16:35:18 GMT
+- **Type:** DOCS
+- **Scope:** `arch`
+- **Action:** Update setup instructions
+- **Journal:** Updated the README for better onboarding of new contributors.
