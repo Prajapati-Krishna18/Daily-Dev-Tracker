@@ -4234,3 +4234,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `lint`
 - **Action:** Tweak GitHub Actions CI pipeline
 - **Journal:** Updated dependencies, bumping versions to clear some security advisories.
+
+### Sat, 22 Aug 2026 11:41:53 GMT
+- **Type:** REFACTOR
+- **Scope:** `utils`
+- **Action:** Simplify state management tree
+- **Journal:** Extracted repetitive logic into its own utility function to keep things DRY.
