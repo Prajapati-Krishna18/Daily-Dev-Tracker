@@ -4246,3 +4246,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `arch`
 - **Action:** Update setup instructions
 - **Journal:** Updated the README for better onboarding of new contributors.
+
+### Sat, 22 Aug 2026 21:04:53 GMT
+- **Type:** CHORE
+- **Scope:** `build`
+- **Action:** Migrate build tool setup
+- **Journal:** Updated dependencies, bumping versions to clear some security advisories.
