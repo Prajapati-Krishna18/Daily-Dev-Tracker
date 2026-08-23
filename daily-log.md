@@ -4258,3 +4258,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `database`
 - **Action:** Implement user authentication endpoint
 - **Journal:** Integrated backend API with frontend state nicely. Handled loading and error states.
+
+### Sun, 23 Aug 2026 07:18:33 GMT
+- **Type:** DOCS
+- **Scope:** `setup`
+- **Action:** Update architecture diagrams
+- **Journal:** Updated the README for better onboarding of new contributors.
