@@ -4342,3 +4342,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `ui`
 - **Action:** Create data models for users
 - **Journal:** Spent time bringing the new UI component to life. Accessibility and responsive design were the priorities.
+
+### Wed, 26 Aug 2026 03:16:08 GMT
+- **Type:** REFACTOR
+- **Scope:** `services`
+- **Action:** Reorganize folder structure for domain driven design
+- **Journal:** Extracted repetitive logic into its own utility function to keep things DRY.
