@@ -4414,3 +4414,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `ci`
 - **Action:** Update npm packages to latest versions
 - **Journal:** Fixed some linter warnings across the codebase and enforced stricter rules.
+
+### Fri, 28 Aug 2026 21:27:23 GMT
+- **Type:** DOCS
+- **Scope:** `readme`
+- **Action:** Improve contribution guidelines
+- **Journal:** Updated the README for better onboarding of new contributors.
