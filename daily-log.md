@@ -4402,3 +4402,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `arch`
 - **Action:** Document API endpoints with Swagger
 - **Journal:** Spent time writing documentation today. Clear docs are better than clever code.
+
+### Fri, 28 Aug 2026 14:19:15 GMT
+- **Type:** DOCS
+- **Scope:** `setup`
+- **Action:** Update setup instructions
+- **Journal:** Added inline comments to complex algorithmic functions for future reference.
