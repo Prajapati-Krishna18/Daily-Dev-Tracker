@@ -4504,3 +4504,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `styles`
 - **Action:** Fix alignment issues on mobile view
 - **Journal:** Fixed the race condition that was triggering sporadic failures in the CI pipeline.
+
+### Mon, 31 Aug 2026 18:02:53 GMT
+- **Type:** DOCS
+- **Scope:** `readme`
+- **Action:** Update architecture diagrams
+- **Journal:** Updated the README for better onboarding of new contributors.
