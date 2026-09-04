@@ -4630,3 +4630,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `patterns`
 - **Action:** Practice dynamic programming and graph problems
 - **Journal:** Watched a conference talk and implemented some of the learnings into a sandbox project.
+
+### Fri, 04 Sep 2026 18:57:47 GMT
+- **Type:** REFACTOR
+- **Scope:** `config`
+- **Action:** Reorganize folder structure for domain driven design
+- **Journal:** Extracted repetitive logic into its own utility function to keep things DRY.
