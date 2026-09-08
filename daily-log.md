@@ -4756,3 +4756,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `tests`
 - **Action:** Fix alignment issues on mobile view
 - **Journal:** Debugged and fixed some annoying edge case bugs today.
+
+### Tue, 08 Sep 2026 23:00:20 GMT
+- **Type:** DOCS
+- **Scope:** `setup`
+- **Action:** Document API endpoints with Swagger
+- **Journal:** Updated the README for better onboarding of new contributors.
