@@ -4786,3 +4786,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `ui`
 - **Action:** Fix flaky integration tests
 - **Journal:** Patched a state bug that took a while to track down in the profiler.
+
+### Wed, 09 Sep 2026 22:47:23 GMT
+- **Type:** CHORE
+- **Scope:** `build`
+- **Action:** Tweak GitHub Actions CI pipeline
+- **Journal:** Cleaned up some unused files and configs.
