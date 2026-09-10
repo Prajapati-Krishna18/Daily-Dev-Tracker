@@ -4798,3 +4798,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `auth`
 - **Action:** Create data models for users
 - **Journal:** Bootstrapped the new service, setting up the basic connections and middleware.
+
+### Thu, 10 Sep 2026 11:47:00 GMT
+- **Type:** REFACTOR
+- **Scope:** `config`
+- **Action:** Simplify state management tree
+- **Journal:** Extracted repetitive logic into its own utility function to keep things DRY.
