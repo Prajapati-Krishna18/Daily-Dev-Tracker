@@ -4816,3 +4816,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `ui`
 - **Action:** Setup React Router configuration
 - **Journal:** Integrated backend API with frontend state nicely. Handled loading and error states.
+
+### Thu, 10 Sep 2026 22:48:17 GMT
+- **Type:** DOCS
+- **Scope:** `arch`
+- **Action:** Update setup instructions
+- **Journal:** Spent time writing documentation today. Clear docs are better than clever code.
