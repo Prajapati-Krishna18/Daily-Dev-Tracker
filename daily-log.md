@@ -4792,3 +4792,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `build`
 - **Action:** Tweak GitHub Actions CI pipeline
 - **Journal:** Cleaned up some unused files and configs.
+
+### Thu, 10 Sep 2026 07:16:44 GMT
+- **Type:** FEAT
+- **Scope:** `auth`
+- **Action:** Create data models for users
+- **Journal:** Bootstrapped the new service, setting up the basic connections and middleware.
