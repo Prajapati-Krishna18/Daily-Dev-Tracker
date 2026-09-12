@@ -4870,3 +4870,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `hooks`
 - **Action:** Clean up messy controller code
 - **Journal:** Refactored some legacy code to be more readable and maintainable.
+
+### Sat, 12 Sep 2026 18:18:27 GMT
+- **Type:** REFACTOR
+- **Scope:** `config`
+- **Action:** Clean up messy controller code
+- **Journal:** Extracted repetitive logic into its own utility function to keep things DRY.
