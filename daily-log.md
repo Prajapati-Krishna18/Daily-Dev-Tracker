@@ -4864,3 +4864,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `setup`
 - **Action:** Document API endpoints with Swagger
 - **Journal:** Fleshed out the API documentation for the newly added endpoints.
+
+### Sat, 12 Sep 2026 14:14:20 GMT
+- **Type:** REFACTOR
+- **Scope:** `hooks`
+- **Action:** Clean up messy controller code
+- **Journal:** Refactored some legacy code to be more readable and maintainable.
