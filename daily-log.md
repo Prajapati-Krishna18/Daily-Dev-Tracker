@@ -4900,3 +4900,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `api`
 - **Action:** Patch memory leak in effect hook
 - **Journal:** Squashed some technical debt bugs, which should improve overall stability.
+
+### Sun, 13 Sep 2026 18:44:40 GMT
+- **Type:** DOCS
+- **Scope:** `api`
+- **Action:** Update setup instructions
+- **Journal:** Fleshed out the API documentation for the newly added endpoints.
