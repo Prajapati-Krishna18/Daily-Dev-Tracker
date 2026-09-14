@@ -4930,3 +4930,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `api`
 - **Action:** Update setup instructions
 - **Journal:** Fleshed out the API documentation for the newly added endpoints.
+
+### Mon, 14 Sep 2026 20:16:27 GMT
+- **Type:** DOCS
+- **Scope:** `api`
+- **Action:** Document API endpoints with Swagger
+- **Journal:** Updated the README for better onboarding of new contributors.
