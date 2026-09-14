@@ -4924,3 +4924,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `lint`
 - **Action:** Update npm packages to latest versions
 - **Journal:** Tweaked the build configuration. Reduced bundle size slightly.
+
+### Mon, 14 Sep 2026 16:59:22 GMT
+- **Type:** DOCS
+- **Scope:** `api`
+- **Action:** Update setup instructions
+- **Journal:** Fleshed out the API documentation for the newly added endpoints.
