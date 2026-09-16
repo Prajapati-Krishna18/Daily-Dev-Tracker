@@ -4990,3 +4990,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `arch`
 - **Action:** Update setup instructions
 - **Journal:** Fleshed out the API documentation for the newly added endpoints.
+
+### Wed, 16 Sep 2026 19:30:46 GMT
+- **Type:** FEAT
+- **Scope:** `core`
+- **Action:** Create data models for users
+- **Journal:** Bootstrapped the new service, setting up the basic connections and middleware.
