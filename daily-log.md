@@ -5050,3 +5050,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `cache`
 - **Action:** Fix flaky integration tests
 - **Journal:** Debugged and fixed some annoying edge case bugs today.
+
+### Fri, 18 Sep 2026 18:59:41 GMT
+- **Type:** DOCS
+- **Scope:** `setup`
+- **Action:** Update setup instructions
+- **Journal:** Updated the README for better onboarding of new contributors.
