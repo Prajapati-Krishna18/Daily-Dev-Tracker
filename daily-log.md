@@ -5056,3 +5056,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `setup`
 - **Action:** Update setup instructions
 - **Journal:** Updated the README for better onboarding of new contributors.
+
+### Fri, 18 Sep 2026 22:51:38 GMT
+- **Type:** DOCS
+- **Scope:** `setup`
+- **Action:** Update setup instructions
+- **Journal:** Fleshed out the API documentation for the newly added endpoints.
