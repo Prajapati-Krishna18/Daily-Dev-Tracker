@@ -5314,3 +5314,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `components`
 - **Action:** Simplify state management tree
 - **Journal:** Optimized the performance of a slow path. Looks much better on the profiler now.
+
+### Sun, 27 Sep 2026 19:43:36 GMT
+- **Type:** DOCS
+- **Scope:** `api`
+- **Action:** Add JSDoc comments to core functions
+- **Journal:** Fleshed out the API documentation for the newly added endpoints.
