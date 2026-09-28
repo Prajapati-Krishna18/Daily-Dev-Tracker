@@ -5332,3 +5332,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `cache`
 - **Action:** Fix alignment issues on mobile view
 - **Journal:** Debugged and fixed some annoying edge case bugs today.
+
+### Mon, 28 Sep 2026 14:26:02 GMT
+- **Type:** DOCS
+- **Scope:** `readme`
+- **Action:** Update architecture diagrams
+- **Journal:** Fleshed out the API documentation for the newly added endpoints.
