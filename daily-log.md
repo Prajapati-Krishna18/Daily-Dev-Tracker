@@ -5344,3 +5344,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `lint`
 - **Action:** Configure ESLint and Prettier rules
 - **Journal:** Fixed some linter warnings across the codebase and enforced stricter rules.
+
+### Mon, 28 Sep 2026 21:52:09 GMT
+- **Type:** FEAT
+- **Scope:** `api`
+- **Action:** Create data models for users
+- **Journal:** Focusing on scaling the new feature. Built the foundation and mapped out the core components.
