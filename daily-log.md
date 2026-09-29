@@ -5368,3 +5368,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `ci`
 - **Action:** Update npm packages to latest versions
 - **Journal:** Cleaned up some unused files and configs.
+
+### Tue, 29 Sep 2026 16:55:46 GMT
+- **Type:** LEARNING
+- **Scope:** `system-design`
+- **Action:** Study distributed systems concepts
+- **Journal:** Read up on system design concepts. Deep dive into caching strategies and load balancing.
