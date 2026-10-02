@@ -5452,3 +5452,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `patterns`
 - **Action:** Review AWS serverless architecture patterns
 - **Journal:** Watched a conference talk and implemented some of the learnings into a sandbox project.
+
+### Fri, 02 Oct 2026 13:08:13 GMT
+- **Type:** DOCS
+- **Scope:** `setup`
+- **Action:** Update setup instructions
+- **Journal:** Fleshed out the API documentation for the newly added endpoints.
