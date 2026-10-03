@@ -5482,3 +5482,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `utils`
 - **Action:** Reorganize folder structure for domain driven design
 - **Journal:** Optimized the performance of a slow path. Looks much better on the profiler now.
+
+### Sat, 03 Oct 2026 11:59:39 GMT
+- **Type:** CHORE
+- **Scope:** `ci`
+- **Action:** Tweak GitHub Actions CI pipeline
+- **Journal:** Fixed some linter warnings across the codebase and enforced stricter rules.
