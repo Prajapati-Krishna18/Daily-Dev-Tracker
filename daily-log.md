@@ -5476,3 +5476,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `lint`
 - **Action:** Migrate build tool setup
 - **Journal:** Fixed some linter warnings across the codebase and enforced stricter rules.
+
+### Sat, 03 Oct 2026 08:03:50 GMT
+- **Type:** REFACTOR
+- **Scope:** `utils`
+- **Action:** Reorganize folder structure for domain driven design
+- **Journal:** Optimized the performance of a slow path. Looks much better on the profiler now.
