@@ -5584,3 +5584,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `database`
 - **Action:** Implement user authentication endpoint
 - **Journal:** Bootstrapped the new service, setting up the basic connections and middleware.
+
+### Wed, 07 Oct 2026 00:11:30 GMT
+- **Type:** DOCS
+- **Scope:** `setup`
+- **Action:** Update architecture diagrams
+- **Journal:** Updated the README for better onboarding of new contributors.
