@@ -5626,3 +5626,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `cloud`
 - **Action:** Practice dynamic programming and graph problems
 - **Journal:** Watched a conference talk and implemented some of the learnings into a sandbox project.
+
+### Thu, 08 Oct 2026 13:59:29 GMT
+- **Type:** FIX
+- **Scope:** `tests`
+- **Action:** Resolve null pointer exception in controller
+- **Journal:** Debugged and fixed some annoying edge case bugs today.
