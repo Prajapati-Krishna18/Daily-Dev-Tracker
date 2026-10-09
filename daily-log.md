@@ -5656,3 +5656,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `ui`
 - **Action:** Correct state mutation bug
 - **Journal:** Patched a state bug that took a while to track down in the profiler.
+
+### Fri, 09 Oct 2026 13:43:01 GMT
+- **Type:** CHORE
+- **Scope:** `build`
+- **Action:** Migrate build tool setup
+- **Journal:** Updated dependencies, bumping versions to clear some security advisories.
