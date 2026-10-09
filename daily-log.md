@@ -5668,3 +5668,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `readme`
 - **Action:** Improve contribution guidelines
 - **Journal:** Added inline comments to complex algorithmic functions for future reference.
+
+### Fri, 09 Oct 2026 20:48:24 GMT
+- **Type:** DOCS
+- **Scope:** `api`
+- **Action:** Add JSDoc comments to core functions
+- **Journal:** Fleshed out the API documentation for the newly added endpoints.
