@@ -5662,3 +5662,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `build`
 - **Action:** Migrate build tool setup
 - **Journal:** Updated dependencies, bumping versions to clear some security advisories.
+
+### Fri, 09 Oct 2026 17:29:04 GMT
+- **Type:** DOCS
+- **Scope:** `readme`
+- **Action:** Improve contribution guidelines
+- **Journal:** Added inline comments to complex algorithmic functions for future reference.
