@@ -5644,3 +5644,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `config`
 - **Action:** Optimize database query for faster load time
 - **Journal:** Extracted repetitive logic into its own utility function to keep things DRY.
+
+### Fri, 09 Oct 2026 00:41:54 GMT
+- **Type:** DOCS
+- **Scope:** `setup`
+- **Action:** Improve contribution guidelines
+- **Journal:** Updated the README for better onboarding of new contributors.
