@@ -5776,3 +5776,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `api`
 - **Action:** Update setup instructions
 - **Journal:** Spent time writing documentation today. Clear docs are better than clever code.
+
+### Tue, 13 Oct 2026 14:32:53 GMT
+- **Type:** FIX
+- **Scope:** `tests`
+- **Action:** Fix flaky integration tests
+- **Journal:** Fixed the race condition that was triggering sporadic failures in the CI pipeline.
