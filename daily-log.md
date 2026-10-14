@@ -5824,3 +5824,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `ui`
 - **Action:** Correct state mutation bug
 - **Journal:** Debugged and fixed some annoying edge case bugs today.
+
+### Wed, 14 Oct 2026 23:29:41 GMT
+- **Type:** DOCS
+- **Scope:** `readme`
+- **Action:** Add JSDoc comments to core functions
+- **Journal:** Updated the README for better onboarding of new contributors.
