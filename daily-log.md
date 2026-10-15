@@ -5848,3 +5848,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `api`
 - **Action:** Resolve null pointer exception in controller
 - **Journal:** Patched a state bug that took a while to track down in the profiler.
+
+### Thu, 15 Oct 2026 19:49:58 GMT
+- **Type:** REFACTOR
+- **Scope:** `components`
+- **Action:** Extract common logic into custom hook
+- **Journal:** Optimized the performance of a slow path. Looks much better on the profiler now.
