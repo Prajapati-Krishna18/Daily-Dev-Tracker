@@ -5860,3 +5860,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `ci`
 - **Action:** Tweak GitHub Actions CI pipeline
 - **Journal:** Cleaned up some unused files and configs.
+
+### Fri, 16 Oct 2026 07:06:36 GMT
+- **Type:** FEAT
+- **Scope:** `database`
+- **Action:** Create data models for users
+- **Journal:** Focusing on scaling the new feature. Built the foundation and mapped out the core components.
