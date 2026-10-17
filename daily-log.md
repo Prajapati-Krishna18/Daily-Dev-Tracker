@@ -5914,3 +5914,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `api`
 - **Action:** Improve contribution guidelines
 - **Journal:** Fleshed out the API documentation for the newly added endpoints.
+
+### Sat, 17 Oct 2026 22:42:03 GMT
+- **Type:** REFACTOR
+- **Scope:** `utils`
+- **Action:** Extract common logic into custom hook
+- **Journal:** Extracted repetitive logic into its own utility function to keep things DRY.
