@@ -5926,3 +5926,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `ci`
 - **Action:** Update npm packages to latest versions
 - **Journal:** Cleaned up some unused files and configs.
+
+### Sun, 18 Oct 2026 11:40:42 GMT
+- **Type:** DOCS
+- **Scope:** `setup`
+- **Action:** Update architecture diagrams
+- **Journal:** Updated the README for better onboarding of new contributors.
