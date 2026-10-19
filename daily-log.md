@@ -5950,3 +5950,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `api`
 - **Action:** Correct state mutation bug
 - **Journal:** Debugged and fixed some annoying edge case bugs today.
+
+### Mon, 19 Oct 2026 07:43:25 GMT
+- **Type:** DOCS
+- **Scope:** `setup`
+- **Action:** Update setup instructions
+- **Journal:** Added inline comments to complex algorithmic functions for future reference.
