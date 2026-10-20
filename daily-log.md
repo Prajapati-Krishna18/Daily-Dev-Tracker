@@ -5998,3 +5998,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `database`
 - **Action:** Implement global state management
 - **Journal:** Added the core functionality for this module. Smooth implementation, mostly matching the specs.
+
+### Tue, 20 Oct 2026 19:57:57 GMT
+- **Type:** DOCS
+- **Scope:** `api`
+- **Action:** Update setup instructions
+- **Journal:** Fleshed out the API documentation for the newly added endpoints.
