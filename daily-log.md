@@ -6040,3 +6040,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `hooks`
 - **Action:** Reorganize folder structure for domain driven design
 - **Journal:** Optimized the performance of a slow path. Looks much better on the profiler now.
+
+### Thu, 22 Oct 2026 07:31:06 GMT
+- **Type:** FIX
+- **Scope:** `tests`
+- **Action:** Patch memory leak in effect hook
+- **Journal:** Resolved an issue causing UI jank during scrolling on mobile.
