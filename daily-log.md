@@ -6064,3 +6064,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `lint`
 - **Action:** Update npm packages to latest versions
 - **Journal:** Fixed some linter warnings across the codebase and enforced stricter rules.
+
+### Thu, 22 Oct 2026 23:40:05 GMT
+- **Type:** FEAT
+- **Scope:** `auth`
+- **Action:** Setup React Router configuration
+- **Journal:** Integrated backend API with frontend state nicely. Handled loading and error states.
