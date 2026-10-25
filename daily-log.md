@@ -6130,3 +6130,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `database`
 - **Action:** Add dark mode toggle functionality
 - **Journal:** Focusing on scaling the new feature. Built the foundation and mapped out the core components.
+
+### Sun, 25 Oct 2026 07:33:18 GMT
+- **Type:** REFACTOR
+- **Scope:** `utils`
+- **Action:** Extract common logic into custom hook
+- **Journal:** Extracted repetitive logic into its own utility function to keep things DRY.
