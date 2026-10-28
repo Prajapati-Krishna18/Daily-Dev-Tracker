@@ -6220,3 +6220,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `services`
 - **Action:** Extract common logic into custom hook
 - **Journal:** Cleaned up tech debt. Broke down large functions into smaller, testable units.
+
+### Wed, 28 Oct 2026 08:24:56 GMT
+- **Type:** DOCS
+- **Scope:** `setup`
+- **Action:** Update setup instructions
+- **Journal:** Updated the README for better onboarding of new contributors.
