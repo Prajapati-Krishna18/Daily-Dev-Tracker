@@ -6268,3 +6268,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `tests`
 - **Action:** Patch memory leak in effect hook
 - **Journal:** Resolved an issue causing UI jank during scrolling on mobile.
+
+### Thu, 29 Oct 2026 21:01:11 GMT
+- **Type:** DOCS
+- **Scope:** `arch`
+- **Action:** Improve contribution guidelines
+- **Journal:** Updated the README for better onboarding of new contributors.
