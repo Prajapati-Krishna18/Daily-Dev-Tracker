@@ -6256,3 +6256,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `styles`
 - **Action:** Fix alignment issues on mobile view
 - **Journal:** Squashed some technical debt bugs, which should improve overall stability.
+
+### Thu, 29 Oct 2026 13:41:12 GMT
+- **Type:** REFACTOR
+- **Scope:** `services`
+- **Action:** Reorganize folder structure for domain driven design
+- **Journal:** Extracted repetitive logic into its own utility function to keep things DRY.
