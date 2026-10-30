@@ -6298,3 +6298,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `hooks`
 - **Action:** Simplify state management tree
 - **Journal:** Refactored some legacy code to be more readable and maintainable.
+
+### Fri, 30 Oct 2026 20:41:17 GMT
+- **Type:** DOCS
+- **Scope:** `arch`
+- **Action:** Improve contribution guidelines
+- **Journal:** Updated the README for better onboarding of new contributors.
