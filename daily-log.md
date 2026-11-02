@@ -6388,3 +6388,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `styles`
 - **Action:** Fix alignment issues on mobile view
 - **Journal:** Patched a state bug that took a while to track down in the profiler.
+
+### Mon, 02 Nov 2026 23:26:07 GMT
+- **Type:** DOCS
+- **Scope:** `arch`
+- **Action:** Update setup instructions
+- **Journal:** Updated the README for better onboarding of new contributors.
