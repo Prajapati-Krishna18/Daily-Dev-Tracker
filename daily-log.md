@@ -6490,3 +6490,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `utils`
 - **Action:** Simplify state management tree
 - **Journal:** Optimized the performance of a slow path. Looks much better on the profiler now.
+
+### Fri, 06 Nov 2026 09:20:00 GMT
+- **Type:** FIX
+- **Scope:** `api`
+- **Action:** Fix flaky integration tests
+- **Journal:** Fixed the race condition that was triggering sporadic failures in the CI pipeline.
