@@ -6532,3 +6532,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `cache`
 - **Action:** Resolve null pointer exception in controller
 - **Journal:** Resolved an issue causing UI jank during scrolling on mobile.
+
+### Sat, 07 Nov 2026 16:55:42 GMT
+- **Type:** DOCS
+- **Scope:** `api`
+- **Action:** Update setup instructions
+- **Journal:** Fleshed out the API documentation for the newly added endpoints.
