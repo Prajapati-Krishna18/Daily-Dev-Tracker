@@ -6520,3 +6520,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `lint`
 - **Action:** Configure ESLint and Prettier rules
 - **Journal:** Fixed some linter warnings across the codebase and enforced stricter rules.
+
+### Sat, 07 Nov 2026 08:43:59 GMT
+- **Type:** DOCS
+- **Scope:** `api`
+- **Action:** Improve contribution guidelines
+- **Journal:** Updated the README for better onboarding of new contributors.
