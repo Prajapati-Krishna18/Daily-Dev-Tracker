@@ -6544,3 +6544,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `lint`
 - **Action:** Migrate build tool setup
 - **Journal:** Updated dependencies, bumping versions to clear some security advisories.
+
+### Sun, 08 Nov 2026 00:01:12 GMT
+- **Type:** FEAT
+- **Scope:** `database`
+- **Action:** Create data models for users
+- **Journal:** Bootstrapped the new service, setting up the basic connections and middleware.
