@@ -6562,3 +6562,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `deps`
 - **Action:** Migrate build tool setup
 - **Journal:** Fixed some linter warnings across the codebase and enforced stricter rules.
+
+### Sun, 08 Nov 2026 17:08:39 GMT
+- **Type:** DOCS
+- **Scope:** `arch`
+- **Action:** Update setup instructions
+- **Journal:** Fleshed out the API documentation for the newly added endpoints.
