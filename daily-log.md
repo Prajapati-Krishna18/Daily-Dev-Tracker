@@ -6664,3 +6664,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `deps`
 - **Action:** Migrate build tool setup
 - **Journal:** Tweaked the build configuration. Reduced bundle size slightly.
+
+### Thu, 12 Nov 2026 02:01:01 GMT
+- **Type:** DOCS
+- **Scope:** `readme`
+- **Action:** Add JSDoc comments to core functions
+- **Journal:** Updated the README for better onboarding of new contributors.
