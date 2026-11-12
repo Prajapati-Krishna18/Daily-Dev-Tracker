@@ -6688,3 +6688,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `deps`
 - **Action:** Migrate build tool setup
 - **Journal:** Fixed some linter warnings across the codebase and enforced stricter rules.
+
+### Thu, 12 Nov 2026 22:11:43 GMT
+- **Type:** DOCS
+- **Scope:** `setup`
+- **Action:** Document API endpoints with Swagger
+- **Journal:** Fleshed out the API documentation for the newly added endpoints.
