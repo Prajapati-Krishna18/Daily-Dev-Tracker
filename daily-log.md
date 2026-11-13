@@ -6694,3 +6694,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `setup`
 - **Action:** Document API endpoints with Swagger
 - **Journal:** Fleshed out the API documentation for the newly added endpoints.
+
+### Fri, 13 Nov 2026 01:31:03 GMT
+- **Type:** REFACTOR
+- **Scope:** `utils`
+- **Action:** Reorganize folder structure for domain driven design
+- **Journal:** Extracted repetitive logic into its own utility function to keep things DRY.
