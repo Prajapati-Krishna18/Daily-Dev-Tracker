@@ -6742,3 +6742,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `hooks`
 - **Action:** Optimize database query for faster load time
 - **Journal:** Refactored some legacy code to be more readable and maintainable.
+
+### Sat, 14 Nov 2026 17:13:58 GMT
+- **Type:** FEAT
+- **Scope:** `core`
+- **Action:** Create data models for users
+- **Journal:** Bootstrapped the new service, setting up the basic connections and middleware.
