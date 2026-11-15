@@ -6778,3 +6778,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `lint`
 - **Action:** Migrate build tool setup
 - **Journal:** Tweaked the build configuration. Reduced bundle size slightly.
+
+### Sun, 15 Nov 2026 20:58:48 GMT
+- **Type:** REFACTOR
+- **Scope:** `components`
+- **Action:** Simplify state management tree
+- **Journal:** Extracted repetitive logic into its own utility function to keep things DRY.
