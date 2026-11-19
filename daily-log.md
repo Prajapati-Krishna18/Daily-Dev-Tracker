@@ -6874,3 +6874,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `patterns`
 - **Action:** Practice dynamic programming and graph problems
 - **Journal:** Read up on system design concepts. Deep dive into caching strategies and load balancing.
+
+### Thu, 19 Nov 2026 02:03:21 GMT
+- **Type:** DOCS
+- **Scope:** `arch`
+- **Action:** Improve contribution guidelines
+- **Journal:** Updated the README for better onboarding of new contributors.
