@@ -6964,3 +6964,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `dsa`
 - **Action:** Read up on advanced React design patterns
 - **Journal:** Spent time learning some new architectural patterns.
+
+### Sun, 22 Nov 2026 00:42:12 GMT
+- **Type:** REFACTOR
+- **Scope:** `config`
+- **Action:** Reorganize folder structure for domain driven design
+- **Journal:** Extracted repetitive logic into its own utility function to keep things DRY.
