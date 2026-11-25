@@ -7048,3 +7048,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `arch`
 - **Action:** Document API endpoints with Swagger
 - **Journal:** Updated the README for better onboarding of new contributors.
+
+### Wed, 25 Nov 2026 00:33:58 GMT
+- **Type:** DOCS
+- **Scope:** `arch`
+- **Action:** Update setup instructions
+- **Journal:** Updated the README for better onboarding of new contributors.
