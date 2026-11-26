@@ -7090,3 +7090,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `api`
 - **Action:** Resolve null pointer exception in controller
 - **Journal:** Patched a state bug that took a while to track down in the profiler.
+
+### Thu, 26 Nov 2026 10:49:41 GMT
+- **Type:** DOCS
+- **Scope:** `setup`
+- **Action:** Update architecture diagrams
+- **Journal:** Updated the README for better onboarding of new contributors.
