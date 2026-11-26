@@ -7102,3 +7102,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `tests`
 - **Action:** Patch memory leak in effect hook
 - **Journal:** Fixed the race condition that was triggering sporadic failures in the CI pipeline.
+
+### Thu, 26 Nov 2026 20:19:50 GMT
+- **Type:** DOCS
+- **Scope:** `api`
+- **Action:** Add JSDoc comments to core functions
+- **Journal:** Fleshed out the API documentation for the newly added endpoints.
