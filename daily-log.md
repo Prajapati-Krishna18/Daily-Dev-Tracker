@@ -7108,3 +7108,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `api`
 - **Action:** Add JSDoc comments to core functions
 - **Journal:** Fleshed out the API documentation for the newly added endpoints.
+
+### Fri, 27 Nov 2026 00:30:55 GMT
+- **Type:** DOCS
+- **Scope:** `arch`
+- **Action:** Update setup instructions
+- **Journal:** Added inline comments to complex algorithmic functions for future reference.
