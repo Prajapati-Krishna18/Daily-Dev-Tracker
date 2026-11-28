@@ -7156,3 +7156,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `readme`
 - **Action:** Improve contribution guidelines
 - **Journal:** Updated the README for better onboarding of new contributors.
+
+### Sat, 28 Nov 2026 15:48:24 GMT
+- **Type:** REFACTOR
+- **Scope:** `utils`
+- **Action:** Extract common logic into custom hook
+- **Journal:** Optimized the performance of a slow path. Looks much better on the profiler now.
