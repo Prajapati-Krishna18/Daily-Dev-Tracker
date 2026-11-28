@@ -7150,3 +7150,9 @@ This log is automatically updated to track my daily coding practice, feature dev
 - **Scope:** `services`
 - **Action:** Clean up messy controller code
 - **Journal:** Optimized the performance of a slow path. Looks much better on the profiler now.
+
+### Sat, 28 Nov 2026 10:19:56 GMT
+- **Type:** DOCS
+- **Scope:** `readme`
+- **Action:** Improve contribution guidelines
+- **Journal:** Updated the README for better onboarding of new contributors.
